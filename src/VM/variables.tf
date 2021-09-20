@@ -1,15 +1,15 @@
 variable "subscriptionID" {
-    type = string
-    description = "variable for resource group"
+  type        = string
+  description = "variable for resource group"
 }
 
 variable "resourceGroupName" {
-  type = string
+  type        = string
   description = "name of resource group"
 }
 
 variable "location" {
-  type = string
+  type        = string
   description = "location of our resource group"
 }
 

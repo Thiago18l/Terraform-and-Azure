@@ -12,3 +12,7 @@ variable "location" {
   type = string
   description = "location of our resource group"
 }
+
+variable "network_interface_id" {
+  type = string
+}

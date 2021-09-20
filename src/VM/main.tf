@@ -28,7 +28,7 @@ resource "azurerm_virtual_machine" "DevMachine" {
   os_profile {
     computer_name = "testing-vm"
     admin_username = "thiago"
-    admin_password = "4050!!"
+    admin_password = "40501812!l"
   }
 
   os_profile_linux_config {

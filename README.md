@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="Terraform + Azure" width="82">
-  <img src="https://www.terraform.io/assets/images/logo-text-8c3ba8a6.svg" width="320">
+  <img src="./assets/tf.png" width="300">
 </h1>
 <p align="center">Terraform and Azure training repo</p>
 <p align="center">
